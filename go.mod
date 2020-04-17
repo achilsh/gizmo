@@ -13,7 +13,7 @@ require (
 	github.com/Shopify/sarama v1.26.1
 	github.com/aws/aws-sdk-go v1.30.8
 	github.com/bradfitz/gomemcache v0.0.0-20180710155616-bc664df96737
-	github.com/go-kit/kit v0.9.0
+	github.com/go-kit/kit v0.10.0
 	github.com/golang/protobuf v1.4.0
 	github.com/google/go-cmp v0.4.0
 	github.com/gorilla/context v1.1.1
